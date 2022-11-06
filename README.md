@@ -33,22 +33,23 @@
 <a href="https://www.hackerrank.com/kumarhimanshu251" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
 alt="kumarhimanshu251" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.leetcode.com/himanshuk42" target="blank"><img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-alt="himanshuk42" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/kumarhimanshu250798" target="blank"><img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-alt="kumarhimanshu250798" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.codechef.com/users/himanshu250798" target="blank"><img align="center"
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshu250798"
-height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.hackerearth.com/himanshu2881" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
 alt="himanshu2881" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.codechef.com/users/himanshu250798" target="blank"><img align="center"
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshu250798"
+height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/himanshukumar" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
 alt="himanshukumar" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/kumarhimanshu250798" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+alt="kumarhimanshu250798" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.leetcode.com/himanshuk42" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+alt="himanshuk42" height="30" width="40" /></a> &nbsp;&nbsp;
 <br /><br />
+        
 <a href="https://fb.com/himanshuk25" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
 alt="himanshuk25" height="30" width="40" /></a> &nbsp;&nbsp;
@@ -65,6 +66,7 @@ alt="himanshu kumar" height="30" width="40" /></a> &nbsp;&nbsp;
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 alt="himanshuk42" height="30" width="40" /></a> &nbsp;&nbsp;
 <br /><br />
+        
 <a href="https://dev.to/himanshuk42" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
 alt="himanshuk42" height="30" width="40" /></a> &nbsp;&nbsp;
